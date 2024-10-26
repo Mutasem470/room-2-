@@ -1,6 +1,4 @@
-# room-2-
-This code prompts the user to enter a pressure value and then checks if it falls within the acceptable range, providing guidance based on the input
-Room 2: Cvontrol System Simulation Simulate a control system for a hydraulic pump. Check the pressure and maintain it between 20 and 80.
+
 pressure = int(input("Enter pressure: "))
 
 if pressure < 20:
